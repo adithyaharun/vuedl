@@ -7,7 +7,7 @@ export default {
     },
     text: {
       type: [String, Function],
-      reqiured: true
+      required: true
     },
     title: {
       type: String
